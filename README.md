@@ -1,4 +1,4 @@
-# terraform-vsphere-licenses
+# terraform-vmware-vsphere-licenses
 A small terraform module for vsphere license management. 
 
 ## Overview
