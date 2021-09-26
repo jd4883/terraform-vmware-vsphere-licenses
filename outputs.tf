@@ -1,0 +1,1 @@
+output licenses {value = vsphere_license.license}

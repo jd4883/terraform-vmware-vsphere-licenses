@@ -6,9 +6,3 @@ resource vsphere_license license {
 	Workflow              = tostring(replace(each.key, "_", " "))
   }
 }
-
-variable licenses {type = map(string)}
-
-output licenses {value = vsphere_license.license}
-
-

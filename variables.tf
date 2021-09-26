@@ -1,0 +1,1 @@
+variable licenses {type = map(string)}
